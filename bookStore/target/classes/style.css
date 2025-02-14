@@ -1,0 +1,56 @@
+/* Light theme */
+.grid-pane-light {
+    -fx-background-color: white;
+}
+.list-view-light {
+    -fx-control-inner-background: white;
+}
+.list-view-light .list-cell {
+    -fx-text-fill: black;
+}
+.label-light {
+    -fx-text-fill: black;
+}
+.button-light{
+	-fx-font-size: 12px;
+	-fx-background-color: cyan;
+	-fx-text-fill: black;
+}
+
+/* Dark theme */
+.grid-pane-dark {
+    -fx-background-color: grey;
+}
+.list-view-dark {
+    -fx-control-inner-background: #a7c7dc;
+}
+.list-view-dark .list-cell {
+    -fx-text-fill: white;
+}
+.label-dark {
+    -fx-text-fill: white;
+}
+.button-dark{
+	-fx-font-size: 12px;
+	-fx-background-color: purple;
+	-fx-text-fill: white;
+}
+
+/*Rand*/
+.grid-pane-rand {
+    -fx-background-color: pink;
+}
+.list-view-rand {
+    -fx-control-inner-background: white;
+}
+.list-view-rand .list-cell {
+    -fx-text-fill: black;
+}
+.label-rand {
+    -fx-text-fill: black;
+}
+.button-rand{
+	-fx-font-size: 12px;
+	-fx-background-color: orange;
+	-fx-text-fill: black;
+}
